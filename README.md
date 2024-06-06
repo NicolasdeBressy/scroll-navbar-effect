@@ -7,7 +7,6 @@ Ce projet est une démonstration simple de la création d'un effet de disparitio
 - La navbar se cache lorsque l'utilisateur commence à faire défiler la page vers le bas et réapparaît lorsque l'utilisateur fait défiler vers le haut.
 - Le projet utilise du HTML, CSS et JavaScript pour créer cet effet interactif.
 
-
 ## Utilisation
 
 1. Clonez le repository sur votre machine locale.
